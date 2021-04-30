@@ -9,4 +9,5 @@ public class Instructor extends User {
     public void setCourse(String course) {
         this.course = course;
     }  
+    
 }
